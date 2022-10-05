@@ -1,0 +1,7 @@
+Base path: 'A:/Unity/2021.3.8f1/Editor/Data', plugins path 'A:/Unity/2021.3.8f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Particles/Alpha Blended platform=d3d11 type=17 mask=6 insize=830 outsize=1708 ok=1
+
+Cmd: shutdown
